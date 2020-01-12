@@ -26,9 +26,9 @@ Online Web Chat Platform Based Django && Channels
 
 ### Linux 用户：
 
-> git clone https://github.com/thefreer98/python.git
+> git clone https://github.com/zjh567.webchat.git
 >
-> cd python/webchat
+> cd webchat
 >
 > virtualenv Dj  --no-site-packages
 >
@@ -42,9 +42,9 @@ Online Web Chat Platform Based Django && Channels
 
 ### Windows 用户：
 
-> git clone https://github.com/thefreer98/python.git
+> git clone https://github.com/zjh567.webchat.git
 >
-> cd python/webchat
+> cd webchat
 >
 > virtualenv Dj  --no-site-packages
 >
@@ -60,7 +60,7 @@ Online Web Chat Platform Based Django && Channels
 
 ## 打开新的终端，接着输入，前一个终端不要关
 
-> cd python/webchat
+> cd webchat
 >
 > source ./Dj/Scripts/activate
 >
